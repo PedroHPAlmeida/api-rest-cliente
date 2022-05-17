@@ -3,6 +3,6 @@ API Rest para cadastro de clientes criada com Spring Web, JPA, H2 e usando Maven
 
 ## Funcionalidades
 - Método GET (faz a requisição dos dados de um cliente com base no Id)
-- Método POST (cadastra um novo usuário)
+- Método POST (cadastra um novo cliente)
 - Método PUT (altera os dados de um cliente)
 - Método DELETE (exlui o cliente)
